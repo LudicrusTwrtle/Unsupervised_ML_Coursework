@@ -2,7 +2,7 @@
 Container for COMP 3705 projects and assignments
 
 
-Assignment 2: DBSCAN
+Assignment 3: DBSCAN
 
 Group 3
 Instructions
