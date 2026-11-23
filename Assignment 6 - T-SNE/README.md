@@ -41,7 +41,7 @@ Create a Jupyter notebook and complete the following steps:
     Conclusions
         Display your best t-SNE plot of your best model and restate the hyperparameter choices.
         In Markdown, discuss how well suited this dataset is for classification. Identify any digit classes that may be confused by a classification model.
-        In Markdown, explain why using PCA-reduced data is preferred over the original high-dimensional data as input for clustering and t-SNE visualization in some cases, and describe how to determine whether PCA-reduced data is appropriate to use and, if so, how to decide on the number of principal components to retain. 
+        In Markdown, explain why using PCA-reduced data is preferred over the original high-dimensional data as input for clustering and t-SNE visualization in some cases, and describe how to determine whether PCA-reduced data is appropriate to use and, if so, how to decide on the number of principal components to retain.
 
 Note:
 Analyze whether the chosen model produces meaningful and well-separated clusters. If the results are not satisfactory, revisit the model run by adjusting hyperparameters and trying again. This cycle of refining, re-running, and re-evaluating is part of the iterative process. Document all iterations and observations in Markdown. Remember, t-SNE can be used as a visualization technique to help compare model performances, but it should be considered a supporting visualization rather than a definitive measure of cluster quality. 
